@@ -1,0 +1,98 @@
+.talk-inner, .talk-item {
+  width: 720px;
+  height: calc(100% + 1514px);
+  position: absolute;
+  top: 0;
+  bottom: -1514px;
+}
+
+.talk-item {
+  background-color: var(--color-darkslategray);
+  right: 0;
+}
+
+.talk-inner {
+  background-color: var(--color-cadetblue);
+  left: 0;
+}
+
+.talk-child1 {
+  border-radius: var(--br-30xl);
+  background-color: var(--color-gainsboro);
+  width: 596px;
+  height: calc(100% - 861px);
+  position: absolute;
+  top: 512px;
+  bottom: 349px;
+  left: calc(50% - 658px);
+}
+
+.mic-icon, .switch-child1 {
+  width: 176px;
+  height: 177px;
+  position: absolute;
+  top: 290px;
+  left: 272px;
+}
+
+.switch-child1 {
+  border-radius: var(--br-70xl);
+  background-color: var(--color-whitesmoke);
+  width: 100%;
+  height: 100%;
+  inset: 0;
+}
+
+.sbox5 {
+  border-radius: var(--br-108xl);
+  background-color: var(--color-cadetblue);
+  cursor: pointer;
+  width: 112px;
+  height: 50px;
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 23px;
+}
+
+.talk7, .text7 {
+  position: absolute;
+  top: 31.25%;
+  left: 12.25%;
+}
+
+.talk7 {
+  left: 60.6%;
+}
+
+.switch4 {
+  align-self: stretch;
+  height: 80px;
+  position: relative;
+  box-shadow: 0 4px 4px #00000040;
+}
+
+.frame1 {
+  flex-direction: column;
+  justify-content: flex-end;
+  align-items: center;
+  width: 302px;
+  display: flex;
+  position: absolute;
+  top: 100px;
+  left: 569px;
+  overflow: hidden;
+}
+
+.talk6 {
+  background-color: var(--color-darkslategray);
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-krona-one);
+  width: 100%;
+  height: 1024px;
+  position: relative;
+  overflow: hidden;
+  box-shadow: 0 4px 4px #00000040;
+}
+/*# sourceMappingURL=talk.4feeb779.css.map */

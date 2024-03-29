@@ -1,0 +1,19 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  --font-krona-one: "Krona One";
+  --font-size-5xl: 24px;
+  --color-darkslategray: #31363f;
+  --color-whitesmoke: #eee;
+  --color-cadetblue: #76abae;
+  --color-blueviolet: #9747ff;
+  --color-gainsboro: #d9d9d9;
+  --br-108xl: 127px;
+  --br-70xl: 89px;
+  --br-8xs: 5px;
+  --br-30xl: 49px;
+}
+/*# sourceMappingURL=t-e-x-t.689f5f05.css.map */
