@@ -1,0 +1,72 @@
+.property-1default-child,
+.sbox4 {
+  position: absolute;
+  height: 100%;
+  width: 100%;
+  top: 0;
+  right: 0;
+  bottom: 0;
+  left: 0;
+  border-radius: var(--br-70xl);
+  background-color: var(--color-whitesmoke);
+}
+.sbox4 {
+  height: 62.5%;
+  width: 37.09%;
+  top: 18.75%;
+  right: 55.96%;
+  bottom: 18.75%;
+  left: 6.95%;
+  border-radius: var(--br-108xl);
+  background-color: var(--color-darkslategray);
+}
+.talk6,
+.text6 {
+  position: absolute;
+  top: 31.25%;
+  left: 12.25%;
+}
+.talk6 {
+  left: 60.6%;
+}
+.property-1default {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+  width: 302px;
+  height: 80px;
+}
+.sbox5 {
+  position: absolute;
+  top: calc(50% - 25px);
+  right: 23px;
+  border-radius: var(--br-108xl);
+  background-color: var(--color-cadetblue);
+  width: 112px;
+  height: 50px;
+}
+.property-1variant2,
+.switch4 {
+  box-shadow: 0 4px 4px rgba(0, 0, 0, 0.25);
+}
+.property-1variant2 {
+  position: absolute;
+  top: 120px;
+  left: 20px;
+  width: 302px;
+  height: 80px;
+}
+.switch4 {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 220px;
+  overflow: hidden;
+  text-align: left;
+  font-size: var(--font-size-5xl);
+  color: var(--color-whitesmoke);
+  font-family: var(--font-krona-one);
+}

@@ -1,0 +1,20 @@
+.property-1default-icon,
+.property-1variant2-icon {
+  position: absolute;
+  top: 20px;
+  left: 20px;
+  width: 304px;
+  height: 305px;
+}
+.property-1variant2-icon {
+  left: 613px;
+}
+.mic {
+  width: 100%;
+  position: relative;
+  border-radius: var(--br-8xs);
+  border: 1px dashed var(--color-blueviolet);
+  box-sizing: border-box;
+  height: 369px;
+  overflow: hidden;
+}
