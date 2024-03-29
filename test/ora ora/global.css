@@ -1,0 +1,32 @@
+body {
+  margin: 0;
+  line-height: normal;
+}
+
+:root {
+  /* fonts */
+  --font-krona-one: "Krona One";
+  --font-lexend: Lexend;
+  --font-lalezar: Lalezar;
+
+  /* font sizes */
+  --font-size-5xl: 24px;
+  --font-size-181xl: 200px;
+
+  /* Colors */
+  --color-darkslategray: #31363f;
+  --color-whitesmoke: #eee;
+  --color-cadetblue: #76abae;
+  --color-blueviolet: #9747ff;
+  --color-silver: #cbc9c9;
+  --color-gainsboro: #d9d9d9;
+
+  /* Paddings */
+  --padding-3xs: 10px;
+
+  /* Border radiuses */
+  --br-108xl: 127px;
+  --br-70xl: 89px;
+  --br-8xs: 5px;
+  --br-30xl: 49px;
+}
